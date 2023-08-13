@@ -1,0 +1,19 @@
+/* Add your styling to make it look similar to the target website */
+/* You can inspect the target website using the browser's developer tools to get styles */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+/* Add more styles for main content and footer */
+
+/* You can inspect and adapt styles to match the target website's appearance */
