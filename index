@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Mailto Link Generator</title>
+</head>
+<body>
+    <header>
+        <h1>Mailto Link Generator</h1>
+    </header>
+    <main>
+        <!-- Input fields and generated link display will go here -->
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
